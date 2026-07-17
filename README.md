@@ -25,6 +25,12 @@ npm run build
 node --test tests/rendered-html.test.mjs
 ```
 
+## Deployment
+
+Pushes to `main` are exported and deployed to GitHub Pages automatically:
+
+<https://kaushik27.github.io/kaushik-systems-field-manual/>
+
 ## Content sources
 
 - <https://kaushikmandal.vercel.app/>
